@@ -5,9 +5,7 @@ Project on how validating user input using jQuery and PHP works
 - [@SaAaron6](https://twitter.com/SaAaron6)
 
 ## Requirements
-Front-end: HTML 5, CSS, jQuery
-Back-end: PHP
-Database: MySQL
+HTML 5, CSS, jQuery, PHP, MySQL
 
 ## Installation
 - Extract zipped file into XAMPP htdocs folder
