@@ -4,6 +4,9 @@ Project on how validating user input using jQuery and PHP works
 ## Author
 - [@SaAaron6](https://twitter.com/SaAaron6)
 
+## Screenshot
+[image](https://i.ibb.co/YRTWzsG/Screenshot-1.png)
+
 ## Requirements
 HTML 5, CSS, jQuery, PHP, MySQL
 
